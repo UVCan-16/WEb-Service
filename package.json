@@ -1,0 +1,19 @@
+{
+  "name": "my-web-service",
+  "version": "1.0.0",
+  "description": "my web page",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UVCan-16/WEb-Service.git"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UVCan-16/WEb-Service/issues"
+  },
+  "homepage": "https://github.com/UVCan-16/WEb-Service#readme"
+}
