@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/UVCan-16/WEb-Service/issues"
   },
-  "homepage": "https://github.com/UVCan-16/WEb-Service#readme"
+  "homepage": "https://github.com/UVCan-16/WEb-Service#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
